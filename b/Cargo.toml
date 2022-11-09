@@ -3,7 +3,7 @@ name = "b"
 version = "0.1.0"
 edition = "2021"
 description = "b"
-license = "UNLICENSE"
+license = "Unlicense"
 
 [dependencies]
 a = { path = "../a", version = "0.1.0" }
