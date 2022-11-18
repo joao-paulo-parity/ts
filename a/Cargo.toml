@@ -1,6 +1,9 @@
 [package]
 name = "a"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2021"
 description = "a"
 license = "Unlicense"
+documentation = "foo"
+homepage = "https://foo.com"
+repository = "https://foo.com"
