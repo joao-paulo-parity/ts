@@ -4,9 +4,9 @@ version = "0.2.0"
 edition = "2021"
 description = "b"
 license = "Unlicense"
-documentation = "foo"
+documentation = "https://foo.com"
 homepage = "https://foo.com"
 repository = "https://foo.com"
 
 [dependencies]
-a = { path = "../a", version = "0.2.0", registry = "local" }
+a = { path = "../a", version = "0.3.0", registry = "local" }
