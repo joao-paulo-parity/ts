@@ -1,3 +1,3 @@
-pub fn add(left: usize, right: usize) -> usize {
-    a::add(left, right)
+pub fn add(a: usize, b: usize) -> usize {
+    a + b
 }

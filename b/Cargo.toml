@@ -1,12 +1,9 @@
 [package]
 name = "b"
-version = "0.2.0"
+version = "0.6.0"
 edition = "2021"
 description = "b"
 license = "Unlicense"
 documentation = "https://foo.com"
 homepage = "https://foo.com"
 repository = "https://foo.com"
-
-[dependencies]
-a = { path = "../a", version = "0.3.0", registry = "local" }
